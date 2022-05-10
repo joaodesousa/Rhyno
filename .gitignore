@@ -30,3 +30,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+### NextJS ###
+# Next build dir
+.next/
+next.config.js
